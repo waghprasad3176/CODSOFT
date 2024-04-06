@@ -23,7 +23,7 @@ int m5=s.nextInt();
 void percentage()
 {
 percent=total/5;
-System.out.println("Your  Total Percentage Are "+percent+"%");
+System.out.println("Your Total Percentage Are "+percent+"%");
 }
 void grade()
 {
